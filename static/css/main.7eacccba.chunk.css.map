@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,uBAAyB,CACzB,iBAAkB,CACnB,aAGC,kBAAmB","file":"main.7eacccba.chunk.css","sourcesContent":[".App {\n  font-family: Arial, serif;\n  text-align: center;\n}\n\nbutton:hover {\n  border-color: green;\n}\n"]}
